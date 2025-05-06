@@ -1,0 +1,14 @@
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\bin\Debug\net6.0-windows\ArraySortingApp.exe
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\bin\Debug\net6.0-windows\ArraySortingApp.deps.json
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\bin\Debug\net6.0-windows\ArraySortingApp.runtimeconfig.json
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\bin\Debug\net6.0-windows\ArraySortingApp.dll
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\bin\Debug\net6.0-windows\ArraySortingApp.pdb
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ArraySortingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ArraySortingApp.AssemblyInfoInputs.cache
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ArraySortingApp.AssemblyInfo.cs
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ArraySortingApp.csproj.CoreCompileInputs.cache
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ArraySortingApp.dll
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\refint\ArraySortingApp.dll
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ArraySortingApp.pdb
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ArraySortingApp.genruntimeconfig.cache
+D:\作業\視窗程式設計\code\hw4\hw8\ArraySortingApp\obj\Debug\net6.0-windows\ref\ArraySortingApp.dll

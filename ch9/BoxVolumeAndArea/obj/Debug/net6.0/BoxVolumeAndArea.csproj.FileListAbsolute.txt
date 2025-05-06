@@ -1,0 +1,14 @@
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\bin\Debug\net6.0\BoxVolumeAndArea.exe
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\bin\Debug\net6.0\BoxVolumeAndArea.deps.json
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\bin\Debug\net6.0\BoxVolumeAndArea.runtimeconfig.json
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\bin\Debug\net6.0\BoxVolumeAndArea.dll
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\bin\Debug\net6.0\BoxVolumeAndArea.pdb
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\BoxVolumeAndArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\BoxVolumeAndArea.AssemblyInfoInputs.cache
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\BoxVolumeAndArea.AssemblyInfo.cs
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\BoxVolumeAndArea.csproj.CoreCompileInputs.cache
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\BoxVolumeAndArea.dll
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\refint\BoxVolumeAndArea.dll
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\BoxVolumeAndArea.pdb
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\BoxVolumeAndArea.genruntimeconfig.cache
+D:\作業\視窗程式設計\code\hw4\ch9\BoxVolumeAndArea\obj\Debug\net6.0\ref\BoxVolumeAndArea.dll

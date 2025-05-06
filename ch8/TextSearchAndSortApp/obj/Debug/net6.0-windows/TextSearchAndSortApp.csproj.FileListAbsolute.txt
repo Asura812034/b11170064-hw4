@@ -1,0 +1,14 @@
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\bin\Debug\net6.0-windows\TextSearchAndSortApp.exe
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\bin\Debug\net6.0-windows\TextSearchAndSortApp.deps.json
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\bin\Debug\net6.0-windows\TextSearchAndSortApp.runtimeconfig.json
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\bin\Debug\net6.0-windows\TextSearchAndSortApp.dll
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\bin\Debug\net6.0-windows\TextSearchAndSortApp.pdb
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\TextSearchAndSortApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\TextSearchAndSortApp.AssemblyInfoInputs.cache
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\TextSearchAndSortApp.AssemblyInfo.cs
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\TextSearchAndSortApp.csproj.CoreCompileInputs.cache
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\TextSearchAndSortApp.dll
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\refint\TextSearchAndSortApp.dll
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\TextSearchAndSortApp.pdb
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\TextSearchAndSortApp.genruntimeconfig.cache
+D:\作業\視窗程式設計\code\hw4\ch9\TextSearchAndSortApp\obj\Debug\net6.0-windows\ref\TextSearchAndSortApp.dll

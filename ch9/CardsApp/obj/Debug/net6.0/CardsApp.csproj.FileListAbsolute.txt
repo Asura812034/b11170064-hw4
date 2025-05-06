@@ -1,0 +1,14 @@
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\bin\Debug\net6.0\CardsApp.exe
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\bin\Debug\net6.0\CardsApp.deps.json
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\bin\Debug\net6.0\CardsApp.runtimeconfig.json
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\bin\Debug\net6.0\CardsApp.dll
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\bin\Debug\net6.0\CardsApp.pdb
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\CardsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\CardsApp.AssemblyInfoInputs.cache
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\CardsApp.AssemblyInfo.cs
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\CardsApp.csproj.CoreCompileInputs.cache
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\CardsApp.dll
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\refint\CardsApp.dll
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\CardsApp.pdb
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\CardsApp.genruntimeconfig.cache
+D:\作業\視窗程式設計\code\hw4\ch9\CardsApp\obj\Debug\net6.0\ref\CardsApp.dll
